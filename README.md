@@ -1,2 +1,4 @@
 # informatica-3bi
-Repository fatto per informatica
+Carlotta Lorenzi
+3bi
+Repository che servirà per informatica
