@@ -1,0 +1,1 @@
+Appena creato il codespaces vedo che mi ha aperto un altra finestra in cui vedo tutti i miei file come su Visual Studio Code, c'è un terminle, di lato a sinitstra vedo tutti i miei file, la ricerca, le estensioni, l'area di stage e il profilo.
