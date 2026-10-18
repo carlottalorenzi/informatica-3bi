@@ -1,5 +1,5 @@
 terminale = terminal
-configurazione = configuration
+modifiche = changes 
 comando = command
-indirizzo = address
-modifiche = changes
+postazione = postation
+identità = identity
